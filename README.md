@@ -20,11 +20,18 @@
 
 ### 📂 Projetos em destaque
 
-**FitVoz — Sistema de avaliação de academias**
 
-Projeto acadêmico colaborativo desenvolvido durante a graduação, com participação na implementação de funcionalidades e construção de partes do sistema.
+### 🏋️ FitVoz — Sistema de avaliação de academias
 
-**Tecnologias:** HTML, CSS, JavaScript, PHP e MySQL.
+🔗 **[Acessar repositório no GitHub](https://github.com/Hugofrtz/fitvoz)**
+
+Projeto acadêmico colaborativo desenvolvido durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+Participei ativamente do desenvolvimento, contribuindo com a implementação de funcionalidades, construção de partes do sistema e colaboração técnica com os integrantes da equipe.
+
+**Tecnologias utilizadas:**
+HTML, CSS, JavaScript, PHP e MySQL.
+
 
 ### 🎯 Atualmente estudando
 
