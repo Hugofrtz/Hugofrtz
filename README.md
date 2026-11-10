@@ -10,12 +10,13 @@
 
 ### 🧠 Tecnologias e conhecimentos
 
-- C e C++
-- Python (básico)
-- SQL
-- Git e GitHub
-- HTML, CSS e JavaScript
-- PHP e MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,html,css,js,php" />
+</p>
+
+- Python: básico, em aprendizado.
+- C e C++: conhecimentos introdutórios.
+- SQL, Git, GitHub, HTML, CSS, JavaScript, PHP e MySQL: conhecimentos acadêmicos.
 
 ### 📂 Projetos em destaque
 
@@ -40,3 +41,16 @@ Projeto acadêmico colaborativo desenvolvido durante a graduação, com particip
 ---
 
 *Em constante aprendizado, buscando transformar conhecimento em soluções.*
+
+---
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hugofrtz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hugofrtz&layout=compact&theme=tokyonight&hide_border=true)
+
+---
