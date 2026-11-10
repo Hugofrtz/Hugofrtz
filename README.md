@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! Eu sou o Hugo Rafael 👋
 
-<!--
-**Hugofrtz/Hugofrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNINOVE.
 
-Here are some ideas to get you started:
+💻 Interessado em Desenvolvimento de Software, Inteligência Artificial e soluções tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Construindo minha trajetória na tecnologia por meio de estudos, projetos acadêmicos e aprendizado contínuo.
+
+---
+
+### 🧠 Tecnologias e conhecimentos
+
+- C e C++
+- Python (básico)
+- SQL
+- Git e GitHub
+- HTML, CSS e JavaScript
+- PHP e MySQL
+
+### 📂 Projetos em destaque
+
+**FitVoz — Sistema de avaliação de academias**
+
+Projeto acadêmico colaborativo desenvolvido durante a graduação, com participação na implementação de funcionalidades e construção de partes do sistema.
+
+**Tecnologias:** HTML, CSS, JavaScript, PHP e MySQL.
+
+### 🎯 Atualmente estudando
+
+- Fundamentos de Inteligência Artificial
+- Python
+- Lógica de programação
+- Desenvolvimento de software
+
+### 🌎 Idiomas
+
+- Português: Nativo
+- Inglês: Básico
+
+---
+
+*Em constante aprendizado, buscando transformar conhecimento em soluções.*
